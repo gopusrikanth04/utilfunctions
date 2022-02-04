@@ -11,7 +11,7 @@ This is an alpha version of regular functions. It is not ready for production us
 
 Add Some Common functions used in javascript
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![ISC License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 
 ## Installation
@@ -29,4 +29,4 @@ Install utilfunctions with npm
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[ISC](https://choosealicense.com/licenses/isc/)
