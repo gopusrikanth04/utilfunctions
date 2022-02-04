@@ -5,7 +5,7 @@ This is an alpha version of regular functions. It is not ready for production us
 
 ## Authors
 
-- [@gopusrikanth](https://www.github.com/octokatherine)
+- [@gopusrikanth](https://github.com/gopusrikanth04)
 
 ## Badges
 

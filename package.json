@@ -1,0 +1,23 @@
+{
+  "name": "utilfunctions",
+  "version": "1.0.0",
+  "description": "Js regulat functions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopusrikanth04/utilfunctions.git"
+  },
+  "keywords": [
+    "Util",
+    "Functions"
+  ],
+  "author": "srikanth gopu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gopusrikanth04/utilfunctions/issues"
+  },
+  "homepage": "https://github.com/gopusrikanth04/utilfunctions#readme"
+}
