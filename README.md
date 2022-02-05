@@ -11,7 +11,7 @@ This is an alpha version of regular functions. It is not ready for production us
 
 Add Some Common functions used in javascript
 
-[![ISC License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 
 ## Installation
@@ -20,11 +20,17 @@ Install utilfunctions with npm
 
 ```bash
   npm install utilfunctions
-  import { isNumber } from "utilfunctions";
+```
+
+## Usage
+
+```js
+import { isNumber, isString, isRegExp, isBoolean, isUndefined } from "utilfunctions";
 
   function test(number){
      return isNumber(number); 
   }
+
 ```
 
 ## License
